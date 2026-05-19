@@ -1,18 +1,15 @@
-# 👋 Hi, I'm Vicky
+# 👋 I'm Vicky
 
-I'm a 19-year-old **Computer Science and Artificial Intelligence** student at the **University of Edinburgh**, passionate about building things that sit at the intersection of vision, language, and structured data.
+3rd year **CS & AI** at the University of Edinburgh.  
+DAAD RISE scholar (hydrogen policy NLP — publication pending).  
+GeoAI intern @ EDINA (UK's national online mapping service).
 
-🔭 **What I'm currently up to:**
-- 🏬 Working part-time as a Retail Associate at Skechers (stockroom & shop-floor)
-- 🧪 Experimenting with image → spatial relationship graphs and material property extraction pipelines
-- 🧠 Learning how to make machines understand the world, one node at a time
+I build things that blend **vision, language, and geospatial data**:
+- Multimodal deepfake political speech detector (XceptionNet + Wav2Vec2)
+- Real-time sign language interpreter (MediaPipe + LSTM)
+- Crypto market making simulator (Avellaneda‑Stoikov + Binance WebSocket)
 
-🛠️ **Past experience that shapes my code:**
-- **Retail & logistics** (A1 Homes) — tight turnarounds, stock prep, customer support → taught me to write clean, reliable, and deadline-aware code
-- **Tutoring an autistic student** — patience, clarity, and adaptability (which also helps when debugging at 2 AM)
-- **NUS Rep, election counting agent, violence prevention mentor** — I care about people, responsibility, and building tech that's socially aware
+**Tech:** PyTorch, Transformers, GeoPandas, OpenCV, MediaPipe, Flask
 
-🗣️ **I speak:** English, Norwegian, and German (conversationally fluent)
-
-📫 **Let's connect:**  
-Check out my repos below — from tumor evolution visualizers to side-effect detectors. Always open to collabs on interesting AI projects.
+🗣️ English · Norwegian · German  
+📫 Open for Summer 2026 AI/ML research/engineering internships
