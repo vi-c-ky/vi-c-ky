@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Vicky
 
-<!--
-**vi-c-ky/vi-c-ky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 19-year-old **Computer Science and Artificial Intelligence** student at the **University of Edinburgh**, passionate about building things that sit at the intersection of vision, language, and structured data.
 
-Here are some ideas to get you started:
+🔭 **What I'm currently up to:**
+- 🏬 Working part-time as a Retail Associate at Skechers (stockroom & shop-floor)
+- 🧪 Experimenting with image → spatial relationship graphs and material property extraction pipelines
+- 🧠 Learning how to make machines understand the world, one node at a time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Past experience that shapes my code:**
+- **Retail & logistics** (A1 Homes) — tight turnarounds, stock prep, customer support → taught me to write clean, reliable, and deadline-aware code
+- **Tutoring an autistic student** — patience, clarity, and adaptability (which also helps when debugging at 2 AM)
+- **NUS Rep, election counting agent, violence prevention mentor** — I care about people, responsibility, and building tech that's socially aware
+
+🗣️ **I speak:** English, Norwegian, and German (conversationally fluent)
+
+📫 **Let's connect:**  
+Check out my repos below — from tumor evolution visualizers to side-effect detectors. Always open to collabs on interesting AI projects.
